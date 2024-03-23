@@ -863,8 +863,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         Twitter = "svemagie"
         Instagram = "hiker.seven"
         Telegram = "svemagie"
-        Youtubelegacy = "xxxx"
-        Phone = "555-555-555"
+        Phone = "+49 1523 1798495"
         Email = "sven@giersig.eu"
         RSS = true
         [languages.en.params.social.Mastodon]
