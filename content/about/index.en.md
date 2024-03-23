@@ -3,6 +3,9 @@ title = 'About Sven Giersig'
 date = 2024-03-23T09:19:36+01:00
 draft = false
 images = ["/images/me.jpeg"]
+lightgallery = true
+math:
+  enable = true
 +++
 
 {{< style "img { height: 1.25rem; }" >}}
