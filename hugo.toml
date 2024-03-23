@@ -88,12 +88,20 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 #    url = "/categories/"
 #    title = ""
   [[menu.main]]
-    weight = 4
+    weight = 2
     identifier = "now"
     pre = ""
     post = ""
     name = "Now"
     url = "/now/"
+    title = ""
+  [[menu.main]]
+    weight = 3
+    identifier = "about"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/about/"
     title = ""
 [params]
   # site default theme ["auto", "light", "dark"]
