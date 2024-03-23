@@ -18,10 +18,3 @@ Sven authors a few blogs, sews ultralight hiking equipment and loves, lives and 
 **his other blogs:**
 Hiking: [www.aufundab.eu](https://www.aufundab.eu)
 Personal: [svemagie.me](https://svemagie.me)
-
-{{< style “img { height: 1.25rem; }" >}}
- [![Netlify Status](https://api.netlify.com/api/v1/badges/54622e9b-5258-456e-a4ca-daa9af157cfb/deploy-status)](https://app.netlify.com/sites/svengiersig/deploys)
- [![GitHub release (latest by date)](https://img.shields.io/github/v/release/svemagie/giersig.eu?style=flat-square)](https://github.com/svemagie/giersig.eu/releases)
- [![Hugo](https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
- [![GitHub stars](https://img.shields.io/github/stars/svemagie/giersig.eu?style=social)](https://github.com/svemagie/giersig.eu)
-{{< /style >}}
