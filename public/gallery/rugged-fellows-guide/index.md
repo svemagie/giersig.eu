@@ -1,3 +1,0 @@
-# Rugged Fellows Guide
-
-
