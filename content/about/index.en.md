@@ -12,7 +12,7 @@ lightgallery = true
 [![GitHub stars](https://img.shields.io/github/stars/svemagie/giersig.eu?style=social)](https://github.com/svemagie/giersig.eu)
 {{< /style >}}
 </br>
-![Me](/images/me.jpeg "Me" {width='50%')
+![Me](/images/me.jpeg "Me" {width='50%'})
 
 ## Sven Giersig is a sociologist, social worker, PR specialist and unix enthusiast. 
 After working as Unix BOFH in the tech industry, and with a short and hefty interlude as a minimal techno DJ, he went on to get his degree in Sociology at the Unversity of Constance. In parallel he worked as a Sales Pro in various positions and for various brands in the field of outdoor & mountaineering sports goods and got promoted to the position as a Storemanager.
