@@ -87,7 +87,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "Categories"
     url = "/categories/"
     title = ""
-
+  [[menu.main]]
+    weight = 4
+    identifier = "now"
+    pre = ""
+    post = ""
+    name = "Now"
+    url = "/now/"
+    title = ""
 [params]
   # site default theme ["auto", "light", "dark"]
   # 网站默认主题 ["auto", "light", "dark"]
