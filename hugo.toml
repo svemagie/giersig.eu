@@ -850,6 +850,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         url = "/now/"
         title = ""
       [[languages.en.menu.main]]
+	weight = 6
+	identifier = "meet"
+	name = "Meet"
+	url = "/meet/"
+      [[languages.en.menu.main]]
         weight = 6
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
