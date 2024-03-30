@@ -6,6 +6,4 @@ images = ["/images/me.jpeg"]
 lightgallery = true
 +++
 
-<!-- Motion embed begin -->
-<iframe src="https://app.usemotion.com/meet/sven-giersig/meet" title="Motion Booking Page" width="100%" height="840px" frameborder="0"></iframe>
-<!-- Motion embed end -->
+<iframe src="https://app.usemotion.com/meet/sven-giersig/meetme" title="Motion Booking Page" width="100%" height="840px" frameborder="0"></iframe>
