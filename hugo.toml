@@ -849,11 +849,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = "Now"
         url = "/now/"
         title = ""
-      [[languages.en.menu.main]]
-	weight = 6
-	identifier = "meet"
-	name = "Meet"
-	url = "/meet/"
     [languages.en.params]
       [languages.en.params.search]
         enable = true
