@@ -8,8 +8,8 @@ lightgallery = true
 
 This is a [Now page](https://nownownow.com/about), inspired by [Derek Sivers](https://sive.rs/now). Last edited 2024-04-23.
 
-- Job: PR-Specialist
-- Bloggin
+- current Job: PR-Specialist
+- Writing and bloggin' a lot
 - Book: PR related
 - Software: [Motion](https://www.usemotion.com) & [Capacities](https://capacities.io)
 - Music: [Ben Klock X Etapp Kyle (live)](https://www.youtube.com/watch?v=fApV88zDpQM)
