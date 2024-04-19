@@ -9,14 +9,14 @@ Values are abstract concepts, and sometimes they are perceived as buzzwords. But
 
 These are my values:
 
-Autonomy
-Awareness
-Continuous improvement
-Creativity
-Education
-Joy
-Openness
-Privacy
-Simplicity > Complexity
-Sustainability
-Work-life balance
+- Autonomy
+- Awareness
+- Continuous improvement
+- Creativity
+- Education
+- Joy
+- Openness
+- Privacy
+- Simplicity > Complexity
+- Sustainability
+- Work-life balance
