@@ -109,7 +109,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.footer]
     enable = true
     # Custom content (HTML format is supported)
-    custom = 
+    custom = ""
     # whether to show Hugo and theme info
     hugo = false
     # whether to show copyright info
