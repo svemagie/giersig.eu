@@ -109,7 +109,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   [params.footer]
     enable = true
     # Custom content (HTML format is supported)
-    custom = "<img referrerpolicy="no-referrer-when-downgrade" src="https://piwik.giersig.eu/matomo.php?idsite=3&amp;rec=1" style="border:0" alt="" />"
+    custom = 
     # whether to show Hugo and theme info
     hugo = false
     # whether to show copyright info
