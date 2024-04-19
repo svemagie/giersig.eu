@@ -10,6 +10,6 @@ This is a [Now page](https://nownownow.com/about), inspired by [Derek Sivers](ht
 
 - current Job: PR-Specialist
 - Writing and bloggin' a lot
-- Book: PR related
+- Books: Scott Branson. 2022. Practical Anarchism. A Guide for Daily Life.
 - Software: [Motion](https://www.usemotion.com) & [Capacities](https://capacities.io)
 - Music: [Ben Klock X Etapp Kyle (live)](https://www.youtube.com/watch?v=fApV88zDpQM)
