@@ -11,12 +11,11 @@ These are my values:
 
 - Autonomy
 - Awareness
+- Joy
 - Continuous improvement
 - Creativity
 - Education
-- Joy
 - Openness
-- Privacy
 - Simplicity > Complexity
 - Sustainability
-- Work-life balance
+- ethnographic approach
