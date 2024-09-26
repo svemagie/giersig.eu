@@ -1,3 +1,8 @@
+# page title
+head:
+  title: "Sven Giersig"
+  description: "personal site"
+
 # showcase
 showcase:
   enable: true
