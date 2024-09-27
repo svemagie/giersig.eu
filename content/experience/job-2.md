@@ -9,5 +9,5 @@ duration: "2007-2012"
 
 ---
 ### Fixing the world, one study at a time
-Research Assistant of Prof. Karin Knorr-Cetina, Prof. Thomas Kirsch and Prof. Thomas Hinz
-Assisted in various research projects, with a focus on sociological methodologies and qualitative research techniques. Gained experience in designing research frameworks, collecting and analyzing data, and applying advanced methodological approaches. Contributed to academic publications and supported the professors in developing comprehensive research strategies.
+##### Research Assistant of Prof. Karin Knorr-Cetina, Prof. Thomas Kirsch and Prof. Thomas Hinz
+Assisted in high-level sociological research projects, focusing on methodological approaches. Developed and implemented research designs, conducted data analysis, and contributed to academic publications. Additionally, provided tutoring to students in both qualitative and quantitative methodologies, enhancing their understanding of research techniques and data analysis. This role sharpened advanced skills in methodological instruction and sociological inquiry.

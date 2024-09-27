@@ -10,6 +10,6 @@ duration: "2012-2021"
 ---
 ### Fixing the world, one hike at a time
 #### Store Manager (Jack Wolfskin, Murnau, 2017–2021)
-Managed store operations, led a team of sales professionals, and implemented strategies to achieve sales targets. Developed customer service standards and maintained inventory control, contributing to the store’s profitability and success.
+Managed daily operations, team leadership, and sales strategies, achieving consistent growth and customer satisfaction. Demonstrated strong organizational skills and the ability to foster a collaborative team environment while maintaining high standards of customer service and product knowledge.
 #### Sales Professional (Jack Wolfskin & Vaude, Konstanz, 2012–2017)
-Gained valuable experience in sales and customer service, demonstrating product knowledge and building strong customer relationships, which contributed to achieving sales goals and enhancing the brand's reputation.
+Built a foundation in sales and customer service, effectively promoting products and establishing strong client relationships. Demonstrated dedication, adaptability, and a keen understanding of consumer behavior, contributing to the brand's success in the market.

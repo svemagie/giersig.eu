@@ -10,4 +10,4 @@ duration: "since 2024"
 ---
 ### Fixing the world, one text at a time
 
-Developed and implemented strategic communication plans to enhance public engagement and information dissemination. Successfully managed media relations, crafted press releases, and coordinated public campaigns, contributing to the organization's visibility and outreach.
+Spearheaded strategic communication initiatives, enhancing public outreach and fostering positive relationships with stakeholders. Developed and executed media campaigns, crafted press releases, and managed the organization's public image, effectively conveying key messages to diverse audiences.

@@ -16,10 +16,10 @@ showcase:
   imageMobile:
     x: "images/who-am-i/me.png"
 
-  #button:
-  #  icon: "icon-mail-fill"
-  #  btnText: "Contact"
-  #  URL: "https://giersig.eu"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "https://giersig.eu"
 
   #socialLinks:
   #  - icon: "github"
@@ -52,12 +52,16 @@ education:
       year: "2007-2018"
       degree: "Sociolgy and Gender Studies"
 
+    - university: "Kolping-Kolleg Stuttgart"
+      year: 2003-2007
+      degree: "Abitur"
+
 # experience
 experience:
   enable: true
   title: "Experience"
   description: >
-   Experienced Sociologist with a Focus on Ethnography. With a deep understanding of sociological theories and ethnographic methods, I have conducted extensive field research over the years, shedding light on social structures, power dynamics, and community interactions. My work is characterized by a critical approach that seeks to challenge prevailing structures and explore alternative possibilities. I have gained experience in both academic and practical settings, enabling me to effectively bridge theory and practice. My primary focus lies in studying grassroots movements, community organizations, and forms of collective action, where I develop innovative approaches to understand social realities from diverse perspectives. This experience has equipped me with the skills to analyze and document complex social processes while collaborating closely with various communities to amplify their voices and experiences.
+   Experienced Sociologist with a Focus on Ethnography. With a deep understanding of sociological theories and ethnographic methods, I have conducted field work and research, shedding light on social structures, power dynamics, and community interactions. My work is characterized by a critical approach that seeks to challenge prevailing structures and explore alternative possibilities. I have gained experience in both academic and practical settings, enabling me to effectively bridge theory and practice. My primary focus lies in studying grassroots movements, community organizations, and forms of collective action, where I develop innovative approaches to understand social realities from diverse perspectives. This experience has equipped me with the skills to analyze and document complex social processes while collaborating closely with various communities to amplify their voices and experiences.
  # button:
  #   icon: "icon-linkedin-fill"
  #   btnText: "Linkedin"
