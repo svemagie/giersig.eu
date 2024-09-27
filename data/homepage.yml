@@ -9,7 +9,7 @@ showcase:
   title: "Hello, I’m Sven."
   subtitle: "I'm a pedestrian sociologist, social worker, PR specialist and unix enthusiast."
   description: >
-      After working as Unix BOFH in the tech industry, and with a short and hefty interlude as a minimal techno DJ, he went on to get his degree in Sociology at the Unversity of Constance. In parallel he worked as a Sales Pro in various positions and for various brands in the field of outdoor & mountaineering sports goods and got promoted to the position as a Storemanager. Between 2021 and 2024 he was working as a social worker with and for juveniles and refugees to help them to get a foot on the ground and into the german society. Since 2024 he works as a PR specialist at a district office, covering all things “social”. Sven authors a few blogs, sews ultralight hiking equipment and loves, lives and hikes in the alps.
+      After working as a Unix administrator in the tech industry and a brief stint as a minimal techno DJ, he earned a Sociology degree from the University of Constance. Concurrently, he worked in sales for various outdoor and mountaineering sports brands, eventually becoming a store manager. From 2021 to 2024, he was a social worker assisting juveniles and refugees integrate into German society. Since 2024, he has been a PR specialist at a district office, focusing on social matters. Sven runs several blogs, sews ultralight hiking gear, and enjoys living and hiking in the Alps.
   image:
     x: "images/who-am-i/me.png"
     _2x: "images/who-am-i/me.png"
@@ -34,8 +34,7 @@ about:
       Sven Giersig is a sociologist, social worker, PR specialist and unix enthusiast.   
       </p>
       <p class="lead">
-      After working as Unix BOFH in the tech industry, and with a short and hefty interlude as a minimal techno DJ, he went on to get his degree in Sociology at the Unversity of Constance. In parallel he worked as a Sales Pro in various positions and for various brands in the field of outdoor & mountaineering sports goods and got promoted to the position as a Storemanager. Between 2021 and 2024 he was working as a social worker with and for juveniles and refugees to help them to get a foot on the ground and into the german society. Since 2024 he works as a PR specialist at a district office, covering all things “social”. Sven authors a few blogs, sews ultralight hiking equipment and loves, lives and hikes in the alps.
-    </p>
+      After working as a Unix administrator in the tech industry and a brief stint as a minimal techno DJ, he earned a Sociology degree from the University of Constance. Concurrently, he worked in sales for various outdoor and mountaineering sports brands, eventually becoming a store manager. From 2021 to 2024, he was a social worker assisting juveniles and refugees integrate into German society. Since 2024, he has been a PR specialist at a district office, focusing on social matters. Sven runs several blogs, sews ultralight hiking gear, and enjoys living and hiking in the Alps.    </p>
 #  button:
 #    icon: "icon-smile-fill"
 #    btnText: "About Me"
