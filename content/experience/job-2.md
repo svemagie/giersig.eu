@@ -2,12 +2,10 @@
 date: 2007-12-01T00:00:00+01:00
 draft: false
 title: "Job #2"
-jobTitle: "Chief Intern"
-company: "Internet Affairs Inc. "
-location: "Stavanger, Norway"
-duration: "2023-2024"
+jobTitle: "Sales Pro"
+company: "Jack Wolfskin "
+location: "Konstanz"
+duration: "2007-2012"
 
 ---
-### Fixing the world, one byte at a time
-
-Continuing the quest. 
+### Fixing the world, one hike at a time

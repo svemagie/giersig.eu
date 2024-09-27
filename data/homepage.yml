@@ -54,10 +54,10 @@ education:
 
 # experience
 experience:
-  enable: false
+  enable: true
   title: "Experience"
   description: >
-   This is where you can highlight a bit over your experience. Years of total experience, specialization, etc.
+   Pretty diverse work experience
  # button:
  #   icon: "icon-linkedin-fill"
  #   btnText: "Linkedin"
