@@ -10,4 +10,4 @@ duration: "1998-2002"
 ---
 ### Fixing the world, one byte at a time
 
-The beginning of a career. 
+Provided technical consulting services in UNIX systems, offering expertise in system administration, troubleshooting, and technical support. Demonstrated strong problem-solving skills and a deep understanding of UNIX-based large networked environments.

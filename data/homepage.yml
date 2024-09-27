@@ -45,27 +45,27 @@ about:
 
 # education
 education:
-  enable: false
+  enable: true
   title: "Education"
   items:
     - university: "University of Constance"
       year: "2007-2018"
-      degree: "Bachelor of Arts in Sociolgy and Gender Studies"
+      degree: "Sociolgy and Gender Studies"
 
 # experience
 experience:
   enable: true
   title: "Experience"
   description: >
-   Pretty diverse work experience
+   Experienced Sociologist with a Focus on Ethnography. With a deep understanding of sociological theories and ethnographic methods, I have conducted extensive field research over the years, shedding light on social structures, power dynamics, and community interactions. My work is characterized by a critical approach that seeks to challenge prevailing structures and explore alternative possibilities. I have gained experience in both academic and practical settings, enabling me to effectively bridge theory and practice. My primary focus lies in studying grassroots movements, community organizations, and forms of collective action, where I develop innovative approaches to understand social realities from diverse perspectives. This experience has equipped me with the skills to analyze and document complex social processes while collaborating closely with various communities to amplify their voices and experiences.
  # button:
  #   icon: "icon-linkedin-fill"
  #   btnText: "Linkedin"
  #   URL: "https://www.linkedin.com/in/adrianmoreno/"
-  #button2:
-  #  icon: "icon-profile-fill"
-  #  btnText: "Download My Resume"
-  #  URL: "#"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download CV (ger)"
+    URL: "#"
 
 # Client & Work
 client_and_work:
@@ -100,7 +100,7 @@ testimonial:
 
 # contact
 contact:
-  enable: false
+  enable: true
   title: "Contact"
   form:
     action: "#"
@@ -109,13 +109,13 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+555 (11) 123 44 55"
+    number: "+49 1523 1798495"
   email:
     title: "Email"
-    email: '<a href="mailto:mail@example.com">mail@example.com</a>'
+    email: '<a href="mailto:sven@giersig.eu">sven@giersig.eu</a>'
   address:
     title: "Address"
-    address: "Exact street/neighborhood (you can omit this)<br />Postcode, City"
+    address: "Seidlstr. 3<br />82418 Murnau, Germany"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
