@@ -26,7 +26,7 @@ showcase:
 
 # about
 about:
-  enable: true
+  enable: false
   title: "Who am I?"
   content: >
     <p class="lead">
@@ -68,7 +68,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download CV (ger)"
-    URL: "#"
+    URL: "2024-10-14 CV Sven Giersig.pdf"
 
 # Client & Work
 client_and_work:
