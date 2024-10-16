@@ -7,7 +7,7 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m Sven."
-  subtitle: "I'm a pedestrian sociologist, social worker, PR specialist and unix enthusiast."
+  subtitle: "I'm a pedestrian sociologist, writer, social worker, PR specialist and unix enthusiast."
   description: >
     After working as a Unix administrator in the tech industry and a brief stint as a minimal techno DJ, I earned a Sociology degree from the University of Constance. Concurrently, I worked in sales for various outdoor and mountaineering sports brands, eventually becoming a store manager. From 2021 to 2024, I worked as a social worker, assisting juveniles and refugees in integrating into German society. Since 2024, I have been a PR specialist at a district office, focusing on social matters. I run several blogs, sew ultralight hiking gear, and enjoy living and hiking in the Alps.  
   image:
@@ -30,7 +30,7 @@ about:
   title: "Who am I?"
   content: >
     <p class="lead">
-      Sven Giersig is a sociologist, social worker, PR specialist and unix enthusiast.   
+      Sven Giersig is a sociologist, writer, ssocial worker, PR specialist and unix enthusiast.   
       </p>
       <p class="lead">
       After working as a Unix administrator in the tech industry and a brief stint as a minimal techno DJ, I earned a Sociology degree from the University of Constance. Concurrently, I worked in sales for various outdoor and mountaineering sports brands, eventually becoming a store manager. From 2021 to 2024, I worked as a social worker, assisting juveniles and refugees in integrating into German society. Since 2024, I have been a PR specialist at a district office, focusing on social matters. I run several blogs, sew ultralight hiking gear, and enjoy living and hiking in the Alps.
