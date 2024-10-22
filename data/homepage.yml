@@ -20,9 +20,11 @@ showcase:
 #    btnText: "Contact"
 #    URL: "https://giersig.eu"
 
-  #socialLinks:
-  #  - icon: "github"
-  #    URL: "https://github.com/zetxek"
+  socialLinks:
+    - icon: "github"
+      URL: "https://x.com/svemagie"
+    - icon: "twitter"
+      URL: "https://github.com/svemagie"
 
 # about
 about:
