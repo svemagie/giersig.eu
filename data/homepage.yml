@@ -21,9 +21,9 @@ showcase:
     URL: "https://giersig.eu/#contact"
 
   socialLinks:
-    - icon: "github"
-      URL: "https://x.com/svemagie"
     - icon: "twitter"
+      URL: "https://x.com/svemagie"
+    - icon: "github"
       URL: "https://github.com/svemagie"
 
 # about
