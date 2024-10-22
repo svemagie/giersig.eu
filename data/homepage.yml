@@ -109,7 +109,7 @@ contact:
   title: "Contact"
   form:
     action: "https://formspree.io/f/xgveedoj"
-    method="POST"
+    method: "POST"
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
