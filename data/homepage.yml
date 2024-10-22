@@ -15,10 +15,10 @@ showcase:
     _2x: "images/who-am-i/me.png"
   imageMobile:
     x: "images/who-am-i/me.png"
-#  button:
-#    icon: "icon-mail-fill"
-#    btnText: "Contact"
-#    URL: "https://giersig.eu"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "https://giersig.eu/#contact"
 
   socialLinks:
     - icon: "github"
