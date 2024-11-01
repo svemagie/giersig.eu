@@ -1,0 +1,133 @@
+# page title
+head:
+  title: "Sven Giersig"
+  description: "personal site"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Sven."
+  subtitle: "I'm a pedestrian sociologist, writer, social worker, PR specialist and unix enthusiast."
+  description: >
+    After working as a Unix administrator in the tech industry and a brief stint as a minimal techno DJ, I earned a Sociology degree from the University of Constance. Concurrently, I worked in sales for various outdoor and mountaineering sports brands, eventually becoming a store manager. From 2021 to 2024, I worked as a social worker, assisting juveniles and refugees in integrating into German society. Since 2024, I have been a PR specialist at a district office, focusing on social matters. I run several blogs, sew ultralight hiking gear, and enjoy living and hiking in the Alps.  
+  image:
+    x: "images/who-am-i/me.png"
+    _2x: "images/who-am-i/me.png"
+  imageMobile:
+    x: "images/who-am-i/me.png"
+#  button:
+#    icon: "icon-mail-fill"
+#    btnText: "Contact"
+#    URL: "https://giersig.eu"
+
+  #socialLinks:
+  #  - icon: "github"
+  #    URL: "https://github.com/zetxek"
+
+# about
+about:
+  enable: false
+  title: "Who am I?"
+  content: >
+    <p class="lead">
+      Sven Giersig is a sociologist, writer, ssocial worker, PR specialist and unix enthusiast.   
+      </p>
+      <p class="lead">
+      After working as a Unix administrator in the tech industry and a brief stint as a minimal techno DJ, I earned a Sociology degree from the University of Constance. Concurrently, I worked in sales for various outdoor and mountaineering sports brands, eventually becoming a store manager. From 2021 to 2024, I worked as a social worker, assisting juveniles and refugees in integrating into German society. Since 2024, I have been a PR specialist at a district office, focusing on social matters. I run several blogs, sew ultralight hiking gear, and enjoy living and hiking in the Alps.
+#  button:
+#    icon: "icon-smile-fill"
+#    btnText: "About Me"
+#    URL: "https://www.linkedin.com/in/adrianmoreno/"
+  image:
+    x: "/images/who-am-i/me.png"
+    _2x: "/images/who-am-i/me.png"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of Constance"
+      year: "2007-2018"
+      degree: "Sociolgy and Gender Studies"
+
+    - university: "Kolping-Kolleg Stuttgart"
+      year: 2003-2007
+      degree: "Abitur"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: >
+   Experienced Sociologist with a Focus on Ethnography. With a deep understanding of sociological theories and ethnographic methods, I have conducted field work and research, shedding light on social structures, power dynamics, and community interactions. My work is characterized by a critical approach that seeks to challenge prevailing structures and explore alternative possibilities. I have gained experience in both academic and practical settings, enabling me to effectively bridge theory and practice. My primary focus lies in studying grassroots movements, community organizations, and forms of collective action, where I develop innovative approaches to understand social realities from diverse perspectives. This experience has equipped me with the skills to analyze and document complex social processes while collaborating closely with various communities to amplify their voices and experiences.
+ # button:
+ #   icon: "icon-linkedin-fill"
+ #   btnText: "Linkedin"
+ #   URL: "https://www.linkedin.com/in/adrianmoreno/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download CV (ger)"
+    URL: "2024-10-14 CV Sven Giersig.pdf"
+
+# Client & Work
+client_and_work:
+  title: "Clients & Works"
+  enable: false
+  
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "images/testimonials/daniel-jordan.jpg"
+        _2x: "images/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Jonathan Peters"
+      position: "Textic, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "images/testimonials/jonathan-peters.jpg"
+        _2x: "images/testimonials/jonathan-peters@2x.jpg"
+
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "images/testimonials/antonio-willis.jpg"
+        _2x: "images/testimonials/antonio-willis@2x.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "https://formspree.io/f/xgveedoj"
+    method="POST"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+49 1523 1798495"
+  email:
+    title: "Email"
+    email: '<a href="mailto:sven@giersig.eu">sven@giersig.eu</a>'
+  address:
+    title: "Address"
+    address: "Seidlstr. 3<br />82418 Murnau, Germany"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
