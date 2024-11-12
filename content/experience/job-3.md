@@ -4,7 +4,7 @@ draft: false
 title: "Job #3"
 jobTitle: "Founder"
 company: "Textbureau & Comminication Giersig "
-location: "Konstanz & Murnaus"
+location: "Konstanz & Murnau"
 duration: "2014-2023"
 
 ---
