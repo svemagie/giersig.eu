@@ -48,11 +48,11 @@ education:
   items:
     - university: "University of Constance"
       year: "2007-2018"
-      degree: "B.A. Sociology and Gender Studies"
+      degree: "B.A. Sociology (Minor Subjects Politics & Administration and Gender Studies)"
 
     - university: "Kolping-Kolleg Stuttgart"
       year: 2003-2007
-      degree: "Abitur"
+      degree: "A Level / Abitur"
 
 # experience
 experience:
